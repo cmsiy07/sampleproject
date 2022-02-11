@@ -1,4 +1,4 @@
-# sampleproject
+# Input - Output - List - Sample Project
 
 Just a simple exercise on error handling on user inputs such as 
 - there should be inputs on both username and age
